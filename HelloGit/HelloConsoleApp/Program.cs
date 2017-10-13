@@ -10,7 +10,7 @@ namespace HelloConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to the First fork in GIT");
+            Console.WriteLine("Welcome to the First fork in GIT..");
         }
     }
 }
